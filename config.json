@@ -1,0 +1,11 @@
+{
+  "name": "Cat Photo App",
+  "repo": "https://github.com/cekstedt/FreeCodeCamp-CatPhotoApp",
+  "challenger": "FreeCodeCamp",
+  "challenge page": "https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/",
+  "hosted": "https://magical-twilight-a63d9e.netlify.app/",
+  "original": false,
+  "personal": false,
+  "thumbnail": "thumbnail.png",
+  "technologies": ["html"]
+}

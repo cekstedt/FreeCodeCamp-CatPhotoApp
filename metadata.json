@@ -7,5 +7,7 @@
   "original": false,
   "personal": false,
   "thumbnail": "thumbnail.png",
-  "technologies": ["html"]
+  "technologies": ["html"],
+  "status": "complete",
+  "priority": "done"
 }

@@ -18,7 +18,7 @@ This is a solution to the [Learn HTML by Building a Cat Photo App](https://www.f
 
 ### The challenge
 
-In this course, you'll learn the most common HTML tags by building your own cat photo app.
+"In this course, you'll learn the most common HTML tags by building your own cat photo app."
 
 ### Screenshot
 

@@ -10,7 +10,7 @@ This is a solution to the [Learn HTML by Building a Cat Photo App](https://www.f
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [How to install & run](#how-to-install-and-run)
+  - [How to install & run](#how-to-install-&-run)
 - [Author](#author)
 - [License](#license)
 

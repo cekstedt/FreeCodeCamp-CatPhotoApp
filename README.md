@@ -10,7 +10,7 @@ This is a solution to the [Learn HTML by Building a Cat Photo App](https://www.f
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [How to install & run](#how-to-install-&-run)
+  - [How to install and run](#how-to-install-and-run)
 - [Author](#author)
 - [License](#license)
 
@@ -36,7 +36,7 @@ In this course, you'll learn the most common HTML tags by building your own cat 
 
 - Semantic HTML
 
-### How to install & run
+### How to install and run
 
 This project is HTML-only, so simply clone the repo then open `src/index.html` in your browser.
 

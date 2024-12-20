@@ -1,4 +1,4 @@
-# FreeCodeCamp - Building a Cat Photo App solution
+# FreeCodeCamp - Building a Cat Photo App
 
 This is a solution to the [Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/) course on [FreeCodeCamp](https://www.freecodecamp.org/).
 

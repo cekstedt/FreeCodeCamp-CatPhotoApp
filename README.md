@@ -34,11 +34,11 @@ In this course, you'll learn the most common HTML tags by building your own cat 
 
 ### Built with
 
-- Semantic HTML5 markup
+- Semantic HTML
 
 ### How to install & run
 
-This project is HTML-only, so simply clone the repo then open src/index.html in your browser.
+This project is HTML-only, so simply clone the repo then open `src/index.html` in your browser.
 
 ```
 git clone https://github.com/cekstedt/FreeCodeCamp-CatPhotoApp.git
